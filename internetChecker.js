@@ -1,4 +1,7 @@
 const dns = require('dns');
+const os = require('node:os');
+
+
 module.exports = class internetChecker {
 
 
@@ -30,8 +33,8 @@ dns.resolve('www.google.com', async function(err) {
      client.logger.error("No connection");
   } else {
 
-     client.logger.log("internet is secure");
-  }
+    // client.logger.log("internet is secure");
+ }
 });
 }, 1000)
 }

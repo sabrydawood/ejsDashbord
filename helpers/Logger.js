@@ -18,7 +18,7 @@ const pinoLogger = pino.default(
           ignore: "pid,hostname",
           singleLine: false,
           hideObject: true,
-          customColors: "info:blue,warn:yellow,error:red,debug:green",
+          customColors: "info:magenta,warn:yellow,error:red,debug:green",
         },
       }),
     },
