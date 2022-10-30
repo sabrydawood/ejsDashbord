@@ -1,3 +1,7 @@
+
+
+
+module.exports.lunch = (client) =>{
 const express = require('express');
 const app = express();
 	const fs = require('fs')
@@ -10,7 +14,8 @@ const dir = join(__dirname, 'views')
 app.engine("html", require("ejs").renderFile) // Set the engine to html (for ejs template)
 .set("view engine", "ejs")
 .use(express.static(join(__dirname, "/public"))) // Set the css and js folder to ./public
-.set("views", join(__dirname, "/views")) 
+.set("views", join(__dirname, "/views"))
+	.set("port", client.config.DASHBOARD.PORT)
 
 
 
@@ -40,6 +45,9 @@ fs.readdir(dir, (err, files) => {
 
 
 
-app.listen(3000, () => {
-  console.log('server started');
+app.listen(app.get("port"), () => {
+ client.logger.log('server started at ' + app.get("port") );
 });
+
+
+}
