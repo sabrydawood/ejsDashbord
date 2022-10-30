@@ -7,3 +7,124 @@
 {"level":30,"time":1667153988909,"pid":86,"hostname":"56f1ac035293","msg":"server started  at3000"}
 {"level":30,"time":1667154180746,"pid":1035,"hostname":"56f1ac035293","msg":"Launching dashboard"}
 {"level":30,"time":1667154181229,"pid":1035,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667154745712,"pid":3225,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667154746303,"pid":3225,"hostname":"56f1ac035293","msg":"Connected"}
+{"level":30,"time":1667154746304,"pid":3225,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667154763544,"pid":3270,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667154764104,"pid":3270,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667154764105,"pid":3270,"hostname":"56f1ac035293","msg":"Connected"}
+{"level":30,"time":1667155307603,"pid":4853,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155308210,"pid":4853,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155374799,"pid":5131,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155375305,"pid":5131,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155589643,"pid":5999,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":50,"time":1667155590165,"pid":5999,"hostname":"56f1ac035293","err":{"type":"SyntaxError","message":"Unexpected identifier","stack":"/home/runner/ejsDashbord/internetChecker.js:26\nconst Checker = setInterval(function(){\n      ^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at Object.compileFunction (node:vm:352:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1033:15)\n    at Module._compile (node:internal/modules/cjs/loader:1069:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Module.require (node:internal/modules/cjs/loader:1005:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at module.exports.lunch (/home/runner/ejsDashbord/dashboard/index.js:8:25)\n    at /home/runner/ejsDashbord/index.js:20:9"},"msg":"Failed to launch dashboard: Unexpected identifier"}
+{"level":30,"time":1667155614811,"pid":6112,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":50,"time":1667155615308,"pid":6112,"hostname":"56f1ac035293","err":{"type":"SyntaxError","message":"Unexpected identifier","stack":"/home/runner/ejsDashbord/internetChecker.js:26\nstatic Checker setInterval(function(){\n               ^^^^^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at Object.compileFunction (node:vm:352:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1033:15)\n    at Module._compile (node:internal/modules/cjs/loader:1069:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Module.require (node:internal/modules/cjs/loader:1005:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at module.exports.lunch (/home/runner/ejsDashbord/dashboard/index.js:8:25)\n    at /home/runner/ejsDashbord/index.js:20:9"},"msg":"Failed to launch dashboard: Unexpected identifier"}
+{"level":30,"time":1667155619930,"pid":6148,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":50,"time":1667155620506,"pid":6148,"hostname":"56f1ac035293","err":{"type":"SyntaxError","message":"Unexpected identifier","stack":"/home/runner/ejsDashbord/internetChecker.js:26\nstatic Checker setInterval(function(){\n               ^^^^^^^^^^^\n\nSyntaxError: Unexpected identifier\n    at Object.compileFunction (node:vm:352:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1033:15)\n    at Module._compile (node:internal/modules/cjs/loader:1069:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Module.require (node:internal/modules/cjs/loader:1005:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at module.exports.lunch (/home/runner/ejsDashbord/dashboard/index.js:8:25)\n    at /home/runner/ejsDashbord/index.js:20:9"},"msg":"Failed to launch dashboard: Unexpected identifier"}
+{"level":30,"time":1667155652893,"pid":6323,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":50,"time":1667155653413,"pid":6323,"hostname":"56f1ac035293","err":{"type":"TypeError","message":"internetChecker.Checker is not a function","stack":"TypeError: internetChecker.Checker is not a function\n    at module.exports.lunch (/home/runner/ejsDashbord/dashboard/index.js:47:23)\n    at /home/runner/ejsDashbord/index.js:20:9\n    at Object.<anonymous> (/home/runner/ejsDashbord/index.js:30:4)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at node:internal/main/run_main_module:17:47"},"msg":"Failed to launch dashboard: internetChecker.Checker is not a function"}
+{"level":30,"time":1667155661951,"pid":6364,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155662507,"pid":6364,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155665618,"pid":6398,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155666211,"pid":6398,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155669016,"pid":6431,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155669613,"pid":6431,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155673805,"pid":6467,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155674410,"pid":6467,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155677441,"pid":6500,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155678100,"pid":6500,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155682166,"pid":6536,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155682804,"pid":6536,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155685817,"pid":6569,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155686447,"pid":6569,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155690728,"pid":6605,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155691336,"pid":6605,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155695400,"pid":6667,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155696111,"pid":6667,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155699424,"pid":6729,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155700020,"pid":6729,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155703839,"pid":6762,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155704521,"pid":6762,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155708452,"pid":6827,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155709231,"pid":6827,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155713131,"pid":6886,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155713718,"pid":6886,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155718010,"pid":6921,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155718627,"pid":6921,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155738509,"pid":7103,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155739100,"pid":7103,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155743712,"pid":7143,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155744357,"pid":7143,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155748429,"pid":7176,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155749087,"pid":7176,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155755239,"pid":7250,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":50,"time":1667155755812,"pid":7250,"hostname":"56f1ac035293","err":{"type":"ReferenceError","message":"clien is not defined","stack":"ReferenceError: clien is not defined\n    at module.exports.lunch (/home/runner/ejsDashbord/dashboard/index.js:47:31)\n    at /home/runner/ejsDashbord/index.js:20:9\n    at Object.<anonymous> (/home/runner/ejsDashbord/index.js:30:4)\n    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n    at Module.load (node:internal/modules/cjs/loader:981:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n    at node:internal/main/run_main_module:17:47"},"msg":"Failed to launch dashboard: clien is not defined"}
+{"level":30,"time":1667155764336,"pid":7306,"hostname":"56f1ac035293","msg":"Launching dashboard"}
+{"level":30,"time":1667155764899,"pid":7306,"hostname":"56f1ac035293","msg":"server started at 3000"}
+{"level":30,"time":1667155765833,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155766846,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155767836,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155768836,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155769836,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155770839,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155771841,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155772845,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155773843,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155774844,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155775844,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155776845,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155777850,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155778846,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155779847,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155780848,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155781849,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155782850,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155783851,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155784851,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155785853,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155786855,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155787857,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155788857,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155789856,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155790860,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155791858,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155792859,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155793860,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155794861,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155795862,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155796863,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155797863,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155798863,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155799864,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155800865,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155801867,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155802867,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155803868,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155804870,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155805870,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155806872,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155807871,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155808872,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155809875,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155810874,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155811877,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155812877,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155813877,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155814878,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155815880,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155816880,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155817881,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155818883,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155819883,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155820884,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155821884,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155822885,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155823885,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155824887,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155825888,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155826889,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155827891,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155828895,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}
+{"level":30,"time":1667155829909,"pid":7306,"hostname":"56f1ac035293","msg":"internet is secure"}

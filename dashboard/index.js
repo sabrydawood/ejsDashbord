@@ -1,11 +1,11 @@
 
 
 
-module.exports.lunch = (client) =>{
+module.exports.lunch = async (client) =>{
 const express = require('express');
 const app = express();
 	const fs = require('fs')
-
+const internetChecker = require('@root/internetChecker')
 const { join, parse } = require("path")
 let ejs = require('ejs');
 // directory path
@@ -44,7 +44,7 @@ fs.readdir(dir, (err, files) => {
 
 
 
-
+await internetChecker.Checker(client);
 app.listen(app.get("port"), () => {
  client.logger.log('server started at ' + app.get("port") );
 });
